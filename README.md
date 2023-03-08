@@ -13,7 +13,7 @@ A general description would be like this.
 - Handle cash, credit, or check transactions with customers
 - Scan goods and collect payments
 ```
-This only describes the work of a cashier and does not describe what work you yourself have done. You should explain your work experience in your own words like in the example below.
+This only describes the work of a cashier and does not describe what work you have done. You should explain your work experience in your own words like in the example below.
 ```
 - Handle cashir tasks efficiently and provide friendly customer service
 - Cooperate with colleagues to ensure that there are no errors in daily work.
@@ -21,7 +21,7 @@ This only describes the work of a cashier and does not describe what work you yo
 This way, the recruiter can see that you are a hard worker, friendly, collaborative etc. The wording is important.
 
 ## Format matters
-You don't need to be a  graphic designer, yet, think about readability. Important text should d  be large and written on top, detailed explanations should be small, and use a list if you have several explanations.
+You don't need to be a  graphic designer, yet, think about readability. Important text should be large and written on top, detailed explanations should be small, and use a list if you have several explanations.
 
 ### Example I
 <img width="573" alt="Screenshot 2023-03-07 at 22 24 37" src="https://user-images.githubusercontent.com/61685238/223545208-f1f58b99-6cdf-4d51-b955-d93d1c7041ce.png">
@@ -38,12 +38,12 @@ You don't need to be a  graphic designer, yet, think about readability. Importan
 
 The same as CV, do not copy and paste examples, **use your own words to describe yourself.**
 For example, answer questions below.
-- [ ] What do you study in Hive? <sub>Do not explain what Hive is too much, more important to tell how & what you study!</sub>
-- [ ] What kind of projects have you done? <sub>More detail about your study.</sub>
-- [ ] What kind of technical skills do you have?
-- [ ] Which computer language do you enjoy using?
-- [ ] **What do you want to learn as a trainee?** <sub>This is the most important question that recruiters would like to know</sub>
-- [ ] Why do you apply to the company specifically? <sub>Better to have a different reasons for each company</sub>
+- What do you study in Hive? <sub>Do not explain what Hive is too much, more important to tell how & what you study!</sub>
+- What kind of projects have you done? <sub>More detail about your study.</sub>
+- What kind of technical skills do you have?
+- Which computer language do you enjoy using?
+- **What do you want to learn as a trainee?** <sub>This is the most important question that recruiters would like to know</sub>
+- Why do you apply to the company specifically? <sub>Better to have a different reasons for each company</sub>
 
 If you use example text from the internet, it sounds boring and recruiters would not be interested in you. You should explain your personality, your skills, and your experience in your own words. The number of words that can be written in a cover letter is limited, so saying the same thing over and over again should be avoided.
 
