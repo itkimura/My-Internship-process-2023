@@ -24,11 +24,12 @@ This way, the recruiter can see that you are a hard worker, friendly, collaborat
 You don't need to be a  graphic designer, yet, think about readability. Important text should be large and written on top, detailed explanations should be small, and use a list if you have several explanations.
 
 ### Example I
-<img width="573" alt="Screenshot 2023-03-07 at 22 24 37" src="https://user-images.githubusercontent.com/61685238/223545208-f1f58b99-6cdf-4d51-b955-d93d1c7041ce.png">
+<kbd><img width="600" alt="Screenshot 2023-03-08 at 16 38 59" src="https://user-images.githubusercontent.com/61685238/223742256-98d9b167-227e-4135-b7d3-75bd43a2333d.png">
+</kbd>
 
 ### Example II
+<kbd><img width="600" alt="Screenshot 2023-03-08 at 16 33 33" src="https://user-images.githubusercontent.com/61685238/223741866-a1efbd0e-9f30-41d1-83f3-6515c77dc53d.png"></kbd>
 
-<img width="455" alt="Screenshot 2023-03-07 at 22 26 03" src="https://user-images.githubusercontent.com/61685238/223545132-7dcdfe74-8664-4207-bcac-902c803398e6.png">
 
 **This is a small change though, the eye-catchy documents are more likely to impress recruiters.**
 
