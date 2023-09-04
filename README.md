@@ -18,7 +18,8 @@ I think it is important to establish trends and countermeasures in job hunting. 
 
 ## Tips for applications
 I wrote tips for improving applications. Please check following wiki page:
-1. [Cover Letter](https://github.com/itkimura/how-to-make-your-job-application-stand-out/wiki/Cover-Letter) 
-2. [CV](https://github.com/itkimura/how-to-make-your-job-application-stand-out/wiki/CV)
+1. [CV](https://github.com/itkimura/how-to-make-your-job-application-stand-out/wiki/CV)
+2. [Cover Letter](https://github.com/itkimura/how-to-make-your-job-application-stand-out/wiki/Cover-Letter) 
 3. Assignment & Technical Test
-4. Q&A
+4. Github
+6. Q&A
