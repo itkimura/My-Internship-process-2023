@@ -5,7 +5,7 @@ This article is written primarily for Hivers, yet it is still usable for everyon
 **Disclaimer: This article doesn't guarantee that you will get an internship. This is just my own experience.🙏**
 
 ## My plan to apply for internships
-I started applying in Nov 2023. I tried to apply at least 1 position per week, so 4 positions in a month. I wanted to apply carefully for each application, so I set aside a certain amount of time for each application. Some applications require assignments, technical tests, or video Interviews beforehand. So I felt busy with even four applications in a month as I was doing school projects at the same time. It was not easy to keep applying at the same time studying at Hive. However many summer internship application processes start between Nov and April, so I recommend applying in Nov or earlier. There are not many open positions during summer.
+I started applying in Nov 2022. I tried to apply at least 1 position per week, so 4 positions in a month. I wanted to apply carefully for each application, so I set aside a certain amount of time for each application. Some applications require assignments, technical tests, or video Interviews beforehand. So I felt busy with even four applications in a month as I was doing school projects at the same time. It was not easy to keep applying at the same time studying at Hive. However many summer internship application processes start between Nov and April, so I recommend applying in Nov or earlier. There are not many open positions during summer.
 ## All application result
 I applied for 21 positions in total. It resulted in 
 - 16 rejections on my CV
